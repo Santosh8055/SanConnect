@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://sanmon:SanMon123@sanconnect.uezlb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://sanmon:SanMon123@sanconnect.uezlb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "sansecrettoken"
 }
