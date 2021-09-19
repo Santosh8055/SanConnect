@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://sanmon:SanMon123@sanconnect.uezlb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "sansecrettoken"
+  "jwtSecret": "sansecrettoken",
+  "githubClientId": "e2a70999dc6ce7c02b1c",
+  "githubClientSecret": "cdb740e3b1244659e147ea5088e4448f5ad753c6"
 }
